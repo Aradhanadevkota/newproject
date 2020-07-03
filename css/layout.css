@@ -1,0 +1,115 @@
+.main-wrapper{
+    height: auto;
+    width: 100%;
+   }
+
+.navbar-wrapper{
+    height: 50px;
+    background-color:black;
+    color:white;
+}
+
+.logo-wrapper{
+    height: 30px;
+    width: 20%;
+    color: white;
+    font-size: 40px ;
+    padding-top: 10px 10px;
+    float: left;
+}
+
+.navbar{
+    height: 50px;
+    width: 80%;
+    float: right;
+}
+
+
+.personal-information{
+    height: 50px;
+    width: 100%;
+    background-color: teal;
+    color: white;
+}
+
+.contact-wrapper{
+    height: auto;
+    width: 90%;
+    font-size: 20px;
+}
+
+.social-icon{
+    height: 50px;
+    width: 10%;
+    float: right;
+    margin-top: 15px;
+    margin-right: 50px;
+
+}
+
+.whole-wrapper{
+    height: 900px;
+    width: 100%;
+}
+
+
+.logo-info{
+    height: auto;
+    width: 50%;
+    float: left;
+    font-size: 30px;
+    margin-top: 20px;
+    color: black;
+}
+
+.navigation{
+    height: auto;
+    width: 50%;
+    float: right;
+    
+}
+ 
+.nav-wrapper{
+    height: auto;
+    width: 100%;
+    background-color: white;
+}
+
+.product-wrapper{
+    height: auto;
+    width: 100%;
+}
+
+.product-item{
+    height: auto;
+    width: 66%;
+    float: left;
+}
+
+.product-innovate{
+    height: auto;
+    width: 30%;
+    float: left;
+    margin-left: 80px;
+}
+
+.product-create{
+    height: auto;
+    width: 30%;
+    float: right;
+    margin-right: 100px;
+}
+
+.product-scale{
+    height: auto;
+    width: 20%;
+    float: left;
+    margin-left: 80px;
+    
+}
+
+.product-explain{
+    height: auto;
+    width: 100%;
+}
+

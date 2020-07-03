@@ -1,0 +1,103 @@
+#dot{
+    color: lightgreen;
+}
+
+.navbar ul{
+    list-style-type: none;
+   
+}
+
+.navbar ul li{
+    float: right;
+    
+}
+
+.navbar ul li a{
+ display: inline-block;
+ color: white;
+ padding: 14px 16px;
+ text-decoration: none;
+ font-size: 20px;
+}
+
+.navbar ul li:hover{
+    background-color: lightgreen;
+}
+
+.navbar ul li a:hover{
+  color: aqua;
+}
+
+.contact-number{
+    float: left;
+    padding: 15px;
+    margin-left: 100px;
+    text-decoration: none;
+}
+
+.phoneno a{
+    text-decoration: none;
+    color: black;
+}
+
+.emailid a{
+    text-decoration: none;
+    color: black;
+}
+
+.email-wrapper{
+    float: left;
+    padding: 15px;
+    text-decoration: none;
+}
+
+.navigation ul{
+    list-style-type: none;
+    margin-right: 100px;
+    
+}
+
+.navigation ul li{
+    float: right;
+    
+}
+
+.navigation ul li a{
+    display: inline-block;
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navigation ul li a:hover{
+    color: lawngreen;
+}
+
+.photo-information img{
+    height: 500px;
+    width: 100%;
+}
+
+.product-name{
+    font-size: 30px;
+    margin-top: 80px;
+    color: lightskyblue;
+}
+
+.product-paragraph{
+    margin-top: 20px;
+}
+
+.experience{
+    margin-top: 10px;
+}
+
+.management{
+    margin-top: 10px;
+}
+
+.concept{
+    margin-top: 10px;
+}
+
+
